@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.4)  7 MAY 2017 20:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.4)  7 MAY 2017 20:43
 entering extended mode
 **E:/models/main.tex
 (E:/models/main.tex
@@ -454,21 +454,21 @@ Overfull \hbox (29.9211pt too wide) in paragraph at lines 131--132
  []
 
 Package epstopdf Info: Source file: <figs/6.eps>
-(epstopdf)                    date: 2017-05-06 16:46:43
-(epstopdf)                    size: 879106 bytes
+(epstopdf)                    date: 2017-05-07 20:30:51
+(epstopdf)                    size: 736865 bytes
 (epstopdf)             Output file: <figs/6-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-06 17:26:28
-(epstopdf)                    size: 24821 bytes
+(epstopdf)                    date: 2017-05-07 20:31:47
+(epstopdf)                    size: 23154 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/6-eps-converted-to.pdf
  figs/6.eps>
 (epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
-<figs/6-eps-converted-to.pdf, id=12, 501.875pt x 320.19624pt>
+<figs/6-eps-converted-to.pdf, id=12, 441.65pt x 301.125pt>
 File: figs/6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/6-eps-converted-to.pdf>
 Package pdftex.def Info: figs/6-eps-converted-to.pdf used on input line 142.
-(pdftex.def)             Requested size: 206.39685pt x 131.68193pt.
+(pdftex.def)             Requested size: 206.39685pt x 140.72467pt.
  [2 <E:/models/figs/1a-eps-converted-to.pdf> <E:/models/figs/1b-eps-converted-t
 o.pdf> <E:/models/figs/1c-eps-converted-to.pdf> <E:/models/figs/6-eps-converted
 -to.pdf>]
@@ -572,7 +572,7 @@ msfonts/cm/cmr8.pfb><D:/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 D:/CTex/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTex/MiKTeX/fonts/type1/urw
 /times/utmbi8a.pfb><D:/CTex/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTex/Mi
 KTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 280977 bytes).
+Output written on main.pdf (4 pages, 279332 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
